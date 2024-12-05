@@ -1,7 +1,7 @@
 |  #  | Folder Link                            | Assignment Description                               |
 | :-: | -------------------------------------- | ---------------------------------------------------- |
-|  1  | [A01](https://github.com/ZZaner67/4883-Prog-Tech/blob/main/Assignments/A01/README.md) | [10 Easy Problems](./FakeAssignments/A01/README.md) |
-|  2  | [A02](./FakeAssignments/A02/README.md) | [A Hard Problem](./FakeAssignments/A02/README.md)  |
+|  1  | [A01](Assignments/A01/README.md) | [10 Easy Problems](./FakeAssignments/A01/README.md) |
+|  2  | [A02](Assignments/A02/README.md) | [A Hard Problem](./FakeAssignments/A02/README.md)  |
 |  3  | [A03](./FakeAssignments/P01/README.md) | [Priority Problem](./FakeAssignments/P01/README.md)      |
 |  4  | [A04](./FakeAssignments/P02/README.md) | [Graphing Problem](./FakeAssignments/P02/README.md)       |
 |  5  | [A05](./FakeAssignments/P02/README.md) | [Convex Hull Problem](./FakeAssignments/P02/README.md)       |
