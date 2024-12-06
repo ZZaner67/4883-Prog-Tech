@@ -1,3 +1,6 @@
+10 Easy/Medium problems from Leetcode
+Link: https://leetcode.com/
+
 |  #  | Folder Link                            | Assignment Description                               |
 | :-: | -------------------------------------- | ---------------------------------------------------- |
 |  1  | [125](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/125%20Valid%20Palindrome) | [Valid Palindrome](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/125%20Valid%20Palindrome) |
