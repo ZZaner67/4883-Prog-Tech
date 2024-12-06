@@ -7,6 +7,6 @@
 |  5  | [002](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/2%20Add%20Two%20Numbers) | [Add Two Numbers](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/2%20Add%20Two%20Numbers)       |
 |  6  | [055](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/55%20Jump%20Game) | [Jump Game](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/55%20Jump%20Game)       |
 |  7  | [066](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/66%20Plus%20One) | [Plus One](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/66%20Plus%20One)       |
-|  8  | [069]([./P01](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/69%20Sqrt(x)) | [Sqrt(x)](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/69%20Sqrt(x)))       |
+|  8  | [069](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/69%20Sqrt(x)) | [Sqrt(x)](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/69%20Sqrt(x))       |
 |  9  | [007](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/7%20Reverse%20Integer) | [Reverse Integer](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/7%20Reverse%20Integer)       |
 |  10  | [009](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/9%20Palindrome%20Number) | [Palindrome Number](https://github.com/ZZaner67/4883-Prog-Tech/tree/main/Assignments/A01/9%20Palindrome%20Number)       |
