@@ -1,0 +1,28 @@
+class Solution 
+{
+public:
+    vector<int> topKFrequent(vector<int>& nums, int k) 
+    {
+        map<int, int> a;
+        multimap<int, int> b;
+        vector<int> c;
+                
+        for (auto num : nums) 
+        {
+            a[num]++;
+        }
+
+        for (auto key : a) 
+        {
+            b.emplace(key.second, key.first);
+        }
+
+        int i = 0;
+        for (auto it = b.rbegin(); it != b.rend() && i < k; ++it, i++) 
+        {
+            c.push_back(it->second);
+        }
+
+        return c;
+    }
+};
