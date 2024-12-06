@@ -1,6 +1,6 @@
 |  #  | Folder Link                            | Assignment Description                               |
 | :-: | -------------------------------------- | ---------------------------------------------------- |
-|  1  | [A01](./125 Valid Palindrome) | [10 Easy Problems](./A01) |
+|  1  | [A01](Assignments/A01/125 Valid Palindrome) | [10 Easy Problems](./A01) |
 |  2  | [A02](./A02) | [A Hard Problem](./A02)  |
 |  3  | [A03](./A03) | [Priority Problem](./A03)      |
 |  4  | [A04](./A04) | [Graphing Problem](./A04)       |
