@@ -1,0 +1,22 @@
+class Solution 
+{
+public:
+    int reverse(int x) 
+    {
+        int Rem ; // Decalration of Remaider
+        int Ans = 0 ; // Intialization of Ans to Store the Ans
+        while (x > 0 || x < 0)   
+        {
+            if ((Ans > INT_MAX / 10) || (Ans < INT_MIN / 10)) /* Condiotion to check
+            32 bit range if x is outside the range then return 0 */
+            {
+                return 0;  // return 0
+            }
+            Rem = x % 10 ;  // Get the last digit ep 123 ... last digit 3
+            x /= 10 ;  // update value of x eg 123 --> 12
+            Ans = (Ans * 10) + Rem  ; // Last Step is Addition 
+        }
+        return Ans; // return answer in the end 
+
+    }
+};
