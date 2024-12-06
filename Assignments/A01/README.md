@@ -1,4 +1,5 @@
 10 Easy/Medium problems from Leetcode
+
 Link: https://leetcode.com/
 
 |  #  | Folder Link                            | Assignment Description                               |
